@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Nakiti/rally-crm-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Nakiti/rally-crm-backend.git
