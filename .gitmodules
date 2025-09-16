@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Nakiti/rally-crm-backend.git
+[submodule "old-version"]
+	path = old-version
+	url = https://github.com/Nakiti/fundraising.git
